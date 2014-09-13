@@ -17,8 +17,8 @@ def main():
 
 # Set credentials for Zendesk
 
-ZD_USER = 'bellis@apptio.com'
-ZD_PASS = 'Awr5sgl&'
+ZD_USER = 'username@email.com'
+ZD_PASS = '*******'
 
 # Build and execute GET request
 # This section will grab the complete list of tickets
